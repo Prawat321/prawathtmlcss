@@ -1,0 +1,217 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-color: blueviolet;
+    padding: 67px 7px 13px 29px;
+    color: white;
+   
+    
+
+}
+.head ul li{
+    display: inline-block;
+    color: white; 
+    padding: 0px 10px 0px 10px;
+  
+    
+
+}
+
+#front .back{
+    background-image: url(./banner-bg.png);
+    background-repeat: no-repeat;
+    width: 1000px;;
+    height: 230px;
+    background-size: cover;
+}
+.back{
+    text-align: left;
+    padding: 180px;
+    font-size:xx-large;
+}
+.add{
+    padding: 20px;
+    border: solid darkslategray 2px;
+    width: 400px;
+    text-align: center;
+    height: 25px;
+    margin: 20px;
+    background-color: darkslategray;
+}
+.copy{
+    font-size: xx-large;
+    padding:30px ;
+
+}
+.topic img{
+   width: 100%;
+   max-width: 65%;
+   margin: 40px;
+   text-align: right;
+}
+
+.use{
+    display: flex;
+    justify-content:space-between;
+    text-align: left;
+
+    padding: 20px 0px 0px 50px;
+}
+
+.sit{
+    border: solid darkslategray 2px;
+    background-color: darkslategray;
+    width: 300px;
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+}
+.tom{
+    
+    font-size:x-large;
+    padding: 40px;
+    margin: 10px;
+}
+
+
+
+#item-2 .item-in{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+     
+}
+#item-2 .item-in .imgs{
+    width: 30%;
+    margin: -8px 0px;
+    padding: 22px 14px;
+    
+}
+#item-2 .item-in .imgs img{
+    width: 100%;
+}
+#item-2 .item-in button{
+    margin:40px -1px 21px 631px;
+    padding:21px 39px 16px 36px;
+    color: white;
+    background-color: rgb(29, 16, 16);
+    cursor: pointer;
+    border-radius: 3px;
+    border: none;
+}
+#item-2 .item-in button:hover{
+    color: white;
+    background-color: orangered
+}
+#jurrel{
+    font-size: 30px;
+    text-align: center;
+    border: solid black 2px;
+    background-image: url("services-bg.png");
+}
+
+.jubba{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 50px;
+    margin: 16px 40px 20px 40px ;
+   
+    
+
+}
+
+    .jonny{
+         border: slid black 2px;
+         background-color: orange;
+    }
+
+#jurrel.jubba .jonny img{
+    width: 100px;
+}
+.hard{
+    text-align: center;
+    font-size: 50px;
+}
+#test .test-in{
+    text-align: center;
+    font-size: 30px;
+    margin: 30px;
+    padding: 20px;
+}
+.pipe{
+    text-align: left;
+    font-size: 20px;
+    margin: 70px;
+    
+    
+}
+.pipe fieldset{
+border: solid black 3px ;
+border-top: 10px;
+
+padding-block-start: 20px;
+}
+.pipe fieldset h1{
+    margin: 30px;
+}
+.santo{
+text-align: center;
+font-size: 40px;
+color: orangered;
+}
+.form-in{
+display: flex;
+justify-content: space-between;
+margin: 100px;
+padding: 20px;
+}
+.form-in .com {
+
+
+width: 100%;
+max-width: 20% ;
+margin: 0px 0px 0px 70px;
+}
+
+#fom{
+    background-image: url(./img-10.png);
+    width: 400px;
+}
+
+#fom .fom-in .fomme input{
+    margin:13px 3px 1px 17px;
+    padding: 23px 178px 23px 24px;
+    border-radius: 56px;
+}
+
+#fom .fom-in .alg input{
+    margin:13px 3px 1px 17px;
+    padding: 56px 178px 47px 24px;
+    border-radius: 105px;
+   
+    
+}
+
+#fom .fom-in button{
+  margin:34px 0px 3px 129px;
+  padding: 20px 51px 14px 48px;
+  background-color: orangered;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 20px;
+}
+
+#fom .fom-in button:hover{
+      background-color: white;
+      color: black;
+}
+
+
+
